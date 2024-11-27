@@ -38,8 +38,8 @@
 ![Screenshot 2024-11-27 112630](https://github.com/user-attachments/assets/4fa87bd0-2610-488d-a7a5-1ea30dbb4eaa)
 
 
-### Name:
-### Register Number:
+### Name:P.M.Periyaraja
+### Register Number:24001966
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
